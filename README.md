@@ -19,11 +19,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/rimelabs/rime-livekit-agents/pull/15) in [rimelabs/rime-livekit-agents](https://github.com/rimelabs/rime-livekit-agents)
-2. 🎉 Merged PR [#13](https://github.com/rimelabs/rime-livekit-agents/pull/13) in [rimelabs/rime-livekit-agents](https://github.com/rimelabs/rime-livekit-agents)
-3. 💪 Opened PR [#15](https://github.com/rimelabs/rime-livekit-agents/pull/15) in [rimelabs/rime-livekit-agents](https://github.com/rimelabs/rime-livekit-agents)
-4. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2266021755) in [vercel/next.js](https://github.com/vercel/next.js)
-5. 🗣 Commented on [#64130](https://github.com/vercel/next.js/pull/64130#issuecomment-2265702580) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 🎉 Merged PR [#37](https://github.com/bellarosewilson/recipe-manager/pull/37) in [bellarosewilson/recipe-manager](https://github.com/bellarosewilson/recipe-manager)
+2. 💪 Opened PR [#37](https://github.com/bellarosewilson/recipe-manager/pull/37) in [bellarosewilson/recipe-manager](https://github.com/bellarosewilson/recipe-manager)
+3. ℹ️ Assigned PR [#37](https://github.com/bellarosewilson/recipe-manager/pull/37) in [bellarosewilson/recipe-manager](https://github.com/bellarosewilson/recipe-manager)
+4. 🗣 Commented on [#22](https://github.com/bellarosewilson/recipe-manager/pull/22#issuecomment-4025585780) in [bellarosewilson/recipe-manager](https://github.com/bellarosewilson/recipe-manager)
+5. ℹ️ Assigned PR [#36](https://github.com/bellarosewilson/recipe-manager/pull/36) in [bellarosewilson/recipe-manager](https://github.com/bellarosewilson/recipe-manager)
 <!--END_SECTION:activity-->
 
 </details>
