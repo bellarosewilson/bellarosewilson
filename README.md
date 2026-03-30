@@ -3,7 +3,7 @@
 - 🔭 Check out my most recent project: [Recipe Manager](https://recipe-manager-rfrn.onrender.com/)
 - 🌱 I’m currently learning everything there is to know about Front-End Web Development
 - 🥅 2026 Goals: Transition to Tech full-time
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to hike, find a good sunrise/sunset spot and can type 103 wpm
 
 ### Connect With Me
 
