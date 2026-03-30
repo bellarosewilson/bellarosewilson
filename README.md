@@ -28,11 +28,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="BR's GitHub Stats" src="![BR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bellarosewilson&show_icons=true)" />
-
 </details>
 
 [website]: https://recipe-manager-rfrn.onrender.com/
