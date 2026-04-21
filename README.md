@@ -1,9 +1,9 @@
-# (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧Hello, hello , I'm Bella Rose - aka BR! :･ﾟ✧
+# (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧Hello, hello , I'm Bella Rose - aka BR!･ﾟ✧
 
 -  Check out my most recent project: [Recipe Manager](https://recipe-manager-rfrn.onrender.com/)
--  I’m currently learning everything there is to know about Front-End Web Development
--  2026 Goals: Transition to Tech full-time
--  Fun fact: I love to hike, find a good sunrise/sunset spot and can type 103 wpm
+-  I’m currently learning everything there is to know about Workday/Salesforce Integration or Implementation 
+-  2026 Goals: Transition to Tech full-time (Open to Work!)
+-  Fun Fact: When I'm not working on tech projects, I'm working on set as a TV/Film Production Assistant
 
 ### Connect With Me
 
@@ -30,6 +30,6 @@
 
 </details>
 
-[website]: https://recipe-manager-rfrn.onrender.com/
+[website]: https://app.staffmeup.com/profile/bellarosewilson
 [instagram]: https://instagram.com/bellarosewilson
 [linkedin]: https://linkedin.com/in/bellarosewilson
